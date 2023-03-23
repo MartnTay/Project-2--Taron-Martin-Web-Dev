@@ -1,0 +1,157 @@
+/* New CSS from start Feb 4th */
+
+
+header { 
+  background-color: hsl(0, 0%, 100%);
+  border: 4px solid hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 0%);
+  text-align: center;
+  padding: 4px 0;
+
+}
+
+Header h1  { 
+  margin-left: 20px;
+  font-family: 'Signika', sans-serif;
+font-size: 5rem;
+
+}
+
+
+h2 { 
+  font-family: 'Signika', sans-serif;
+font-size: 1.5rem;
+text-transform: uppercase;
+
+}
+
+p, div section ol {
+font-family: Arial, Helvetica, sans-serif
+font-size: 10px;
+text-transform:  }
+
+body header nav { 
+  font-family: 'Signika', sans-serif;
+font-size: 1.5rem;
+text-transform: uppercase;
+
+}
+
+
+h1 { 
+float: center;
+}
+
+header ::after { 
+  content: '';
+  display: table;
+  clear: ;
+  }
+
+Nav { 
+float: center;
+background: ;
+}
+
+Nav ul { 
+margin: 0;
+padding: 0;
+list-style: none;
+text-decoration: none;
+}
+
+nav li { 
+display: inline-block;
+margin-left: 70px;
+padding-top: 35px;
+}
+
+nav a { 
+color: black;
+text-decoration: none;
+text-transform: uppercase;
+
+}
+
+nav a: :hover{ 
+color: black
+
+
+}
+
+div section { 
+  position: absolute;
+  top: 300px;
+  left: 30px;
+  right: 500px;
+  font-size: 18px;
+ 
+}
+
+aside h2, aside p {
+  margin-left: 1110px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+aside ul div {
+  font-size: 18px;
+  text-transform: uppercase;
+margin-left: 1110px;
+text-decoration: none;
+
+}
+
+aside ul div{
+  width: 900%;
+  max-width: 200px;
+;  font: .9em/1.0 Arial, Helvetica, sans-serif;
+text-decoration: none;
+
+}
+
+aside ul div {
+  border-radius: 3px;
+  padding: 3px;
+  background-color: rgb(0, 0, 0);
+  border: 0.2px solid rgb(255, 255, 255);
+  text-align: center;
+  
+}
+
+aside ul div {
+display: grid; 
+grid-template-columns: auto; 
+gap: 1px;
+padding: 15px
+
+}
+
+
+footer {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 100px;
+  font-family: 'Signika', sans-serif;
+font-size: 0.8rem;
+text-transform: uppercase;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+
+}
+a:link {
+    color:green
+  }
+
+/* mouse over link */
+a:hover {
+  color: rgb(0, 0, 0); 
+  text-decoration: none; }
+
+
+  
+
+  /* WRITE YOUR CODE BELOW HERE */
